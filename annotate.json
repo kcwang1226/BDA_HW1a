@@ -1,0 +1,106 @@
+{
+    "Video1.mp4": [
+        {
+            "start_frame": 35,
+            "end_frame": 37,
+            "action_type": "click",
+            "down_coordinate": [
+                17.027027027027028,
+                10.999999999999998
+            ],
+            "up_coordinate": [
+                17.027027027027028,
+                10.999999999999998
+            ],
+            "type_word": "公館"
+        },
+        {
+            "start_frame": 61,
+            "end_frame": 108,
+            "action_type": "type",
+            "down_coordinate": null,
+            "up_coordinate": null,
+            "type_word": "公館"
+        },
+        {
+            "start_frame": 142,
+            "end_frame": 143,
+            "action_type": "click",
+            "down_coordinate": [
+                7.657657657657657,
+                17.75
+            ],
+            "up_coordinate": [
+                7.657657657657657,
+                17.75
+            ],
+            "type_word": "公館"
+        },
+        {
+            "start_frame": 202,
+            "end_frame": 253,
+            "action_type": "swipe",
+            "down_coordinate": [
+                43.33333333333312,
+                58.50000000000002
+            ],
+            "up_coordinate": [
+                43.33333333333312,
+                7.3333333333333375
+            ],
+            "type_word": "公館"
+        }
+    ],
+    "Video2.mp4": [
+        {
+            "start_frame": 30,
+            "end_frame": 82,
+            "action_type": "swipe",
+            "down_coordinate": [
+                43.873873873873876,
+                72.00000000000001
+            ],
+            "up_coordinate": [
+                43.873873873873876,
+                7.500000000000014
+            ],
+            "type_word": "中山"
+        },
+        {
+            "start_frame": 145,
+            "end_frame": 146,
+            "action_type": "click",
+            "down_coordinate": [
+                16.846846846846844,
+                11.250000000000002
+            ],
+            "up_coordinate": [
+                16.846846846846844,
+                11.250000000000002
+            ],
+            "type_word": "中山"
+        },
+        {
+            "start_frame": 169,
+            "end_frame": 172,
+            "action_type": "type",
+            "down_coordinate": null,
+            "up_coordinate": null,
+            "type_word": "中山"
+        },
+        {
+            "start_frame": 265,
+            "end_frame": 266,
+            "action_type": "click",
+            "down_coordinate": [
+                7.837837837837837,
+                17.083333333333332
+            ],
+            "up_coordinate": [
+                7.837837837837837,
+                17.083333333333332
+            ],
+            "type_word": "中山"
+        }
+    ]
+}
